@@ -1,12 +1,11 @@
-# OOA&D
-Object-Oriented Analysis &amp; Design 课程设计作业
 
--------------
 
-##图片说明
-![Test](https://github.com/muxiaobai/OOAD/blob/master/task4/201605271701.png "title")
-#运行后
-![控制台](https://github.com/muxiaobai/OOAD/blob/master/task4/201605271707.png "title")
+
+##测试代码
+![Test](https://github.com/gagchan/O-O-mission/master/mission4/test.png "title")
+***
+#运行结果
+![控制台](https://github.com/gagchan/O-O-mission/master/mission4/result.png "title")
 
 
 --------------
