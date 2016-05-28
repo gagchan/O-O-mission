@@ -12,14 +12,14 @@ public class MainTest {
 		redHead.display();
 		redHead.parformFly();
 		redHead.swin();
-		System.out.println("=======================");
+		System.out.println("=============");
 		System.out.println("Rubber:");
 		Duck rubber=new RubberDuck();
 		rubber.display();
 		rubber.parformFly();
 		rubber.parformQuack();
 		rubber.swin();
-		System.out.println("=======================");
+		System.out.println("=============");
 		System.out.println("Mallard:");
 		Duck mallar=new MallardDuck();
 		mallar.display();
