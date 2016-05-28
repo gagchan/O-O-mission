@@ -2,10 +2,9 @@
 
 
 ##测试代码
-![Test](https://github.com/gagchan/O-O-mission/tree/master/mission4/test.png "title")
+![Test](test.png)
 ***
 #运行结果
-![控制台](https://github.com/gagchan/O-O-mission/tree/master/mission4/result.png "title")
+![控制台](result.png)
 
 
---------------
